@@ -1,5 +1,5 @@
 # Traffic Sign Classifier
-<center> <img src = "https://github.com/sandipanrakshit34/Traffic-Sign-Classification-master/blob/main/1619771620055.jpg" width = 100%>
+<center> <img src = "https://github.com/sandipanrakshit34/Traffic-Sign-Classification-master/blob/main/Picsart_24-09-08_23-55-48-610.jpg" width = 100%>
 A project that stretched my understanding of Neural Networks especially CNN’s and their successful use in Computer Vision. I built the network on Keras framework running on top of Tensorflow backend, trained on Google Colab using thousands of images in the training set and attained an accuracy of 97.8% against the test set. I further tested the model on some independent external data and it performed well.
 
 The trained model file is a `.h5` file named `my_model.h5`
