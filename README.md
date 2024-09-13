@@ -24,6 +24,13 @@ I used an ImageGenerator to help show different angles and views of the same dat
 
 ###### Building the Network
 I used and tweaked a leNet model to attain desired results:
+
+## Authors
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
+
 ```
 def better_model():
   model = Sequential()
